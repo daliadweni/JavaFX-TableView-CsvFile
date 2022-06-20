@@ -1,5 +1,5 @@
 # JAVAFX ADD AND EXPORT TABLEVIEW TO .CSV
-### Focus areas
+### Focus areas :
 - Add Form to TableView
 - Export TableView to CSV
 
