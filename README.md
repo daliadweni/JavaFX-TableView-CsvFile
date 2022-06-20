@@ -1,3 +1,3 @@
 # JAVAFX ADD AND EXPORT TABLEVIEW TO .CSV
-![CAP1](exc1.png)
-![CAP1](exc2.png)
+![CAP1](./exc1.png)
+![CAP1](/exc2.png)
